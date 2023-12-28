@@ -1,0 +1,351 @@
+# Russian translations for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-12-28 20:00+0300\n"
+"PO-Revision-Date: 2023-12-21 13:09+0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ru\n"
+"Language-Team: ru <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: starcraft.py:65
+msgid " (Y/N) "
+msgstr "(Д/Н)"
+
+#: starcraft.py:66
+msgid "y"
+msgstr "д"
+
+#: starcraft.py:219
+msgid "The {0} is dead!"
+msgstr "{0} уничтожен!"
+
+#: starcraft.py:390
+msgid "You take {0} damage!"
+msgstr "{0} урона!"
+
+#: starcraft.py:403
+msgid "+{0} EXP"
+msgstr "+{0} опыта!"
+
+#: starcraft.py:408
+msgid "You have reached level {0}!"
+msgstr "Вы достигли уровня {0}"
+
+#: starcraft.py:409
+msgid "Current EXP: {0}/{1}"
+msgstr "Текущий опыт: {0}/{1}"
+
+#: starcraft.py:412
+msgid "You died!"
+msgstr "Вы умерли!"
+
+#: starcraft.py:415
+msgid "Score: {0}"
+msgstr "Счёт: {0}"
+
+#: starcraft.py:419
+msgid "HP: {0}/20"
+msgstr "Здоровье: {0}/20"
+
+#: starcraft.py:428
+msgid "You are healed by {0} HP."
+msgstr "Вы восстановили {0} здоровья."
+
+#: starcraft.py:494
+msgid "Your {0} is destroyed!"
+msgstr "Ваш {0} разрушен!"
+
+#: starcraft.py:498
+msgid "Durability: {0}"
+msgstr "Прочность: {0}"
+
+#: starcraft.py:504
+msgid "{0} - Durability {1}"
+msgstr "{0} - Прочность {1}"
+
+#: starcraft.py:505
+msgid "Unarmed"
+msgstr "Безоружен"
+
+#: starcraft.py:506
+msgid "Which weapon would you like to switch to?"
+msgstr "Какое вооружение вы хотите выбрать?"
+
+#: starcraft.py:509
+msgid "You decide to go unarmed"
+msgstr "Вы решили остаться безоружным"
+
+#: starcraft.py:513
+msgid "You switch to your {0}"
+msgstr "Вы переключились на {0}"
+
+#: starcraft.py:547 starcraft.py:797
+msgid "You found"
+msgstr "Вы нашли"
+
+#: starcraft.py:548
+msgid "while"
+msgstr "пока"
+
+#: starcraft.py:551 starcraft.py:648
+msgid "The {0} attacks you!"
+msgstr "{0} атакует!"
+
+#: starcraft.py:557 starcraft.py:651
+msgid "Attack"
+msgstr "Нападение"
+
+#: starcraft.py:557 starcraft.py:651
+msgid "Flee"
+msgstr "Бегство"
+
+#: starcraft.py:557 starcraft.py:651
+msgid "Ignore"
+msgstr "Игнорировать"
+
+#: starcraft.py:559
+msgid "Would you like to switch weapons?"
+msgstr "Вы хотите переключить оружие?"
+
+#: starcraft.py:566
+msgid "The {0} stops running."
+msgstr "{0} прекратил бежать."
+
+#: starcraft.py:572
+msgid "You swing at the {0} but it teleports away."
+msgstr "Вы замахнулись на {0}, но тот телепортировался."
+
+#: starcraft.py:574
+msgid "You swing at the {0} but miss."
+msgstr "Вы замахнулись на {0} и промахнулись."
+
+#: starcraft.py:577
+msgid "You try to attack the {} while it was fleeing, and miss."
+msgstr "Вы попытались атаковать {} пока он убегал и промахнулись."
+
+#: starcraft.py:578
+msgid "You swing at the {}, but miss as it was running away too fast."
+msgstr "Вы попытались атаковать, но промахнулись так как он бежал слишком быстро"
+
+#: starcraft.py:579
+msgid "The {} was fleeing too quickly, you miss!"
+msgstr "{} слишком быстро убегал. Вы промахнулись!"
+
+#: starcraft.py:580
+msgid "You swing at the {}, and miss narrowly."
+msgstr "Вы почти попали по {}!"
+
+#: starcraft.py:581
+msgid "You try to attack the {} while it was running away, and miss."
+msgstr "Вы попвталиссь атаковать {}, пока он бежал мимо вас. Безуспешно."
+
+#: starcraft.py:591
+msgid "You attack the {0}.{1}"
+msgstr "Вы атаковали {0}.{1}"
+
+#: starcraft.py:591
+msgid " Critical!"
+msgstr " Критический!"
+
+#: starcraft.py:598
+msgid "The {} starts running away."
+msgstr "{} начал убегать."
+
+#: starcraft.py:606
+msgid "The creeper explodes!"
+msgstr "Крепер взорвался!"
+
+#: starcraft.py:607
+msgid "Killed by a creeper's explosion"
+msgstr "Умер от взрыва"
+
+#: starcraft.py:609 starcraft.py:809
+msgid "mining"
+msgstr "копать"
+
+#: starcraft.py:610 starcraft.py:766 starcraft.py:793 starcraft.py:801
+msgid "Stone"
+msgstr "Камень"
+
+#: starcraft.py:611
+msgid "Coal Ore"
+msgstr "Уголь"
+
+#: starcraft.py:612
+msgid "Iron Ore"
+msgstr "Железная руда"
+
+#: starcraft.py:613
+msgid "Lapis Lazuli Ore"
+msgstr "Лазурит"
+
+#: starcraft.py:614
+msgid "Gold Ore"
+msgstr "Золотая руда"
+
+#: starcraft.py:615
+msgid "Diamond Ore"
+msgstr "Алмазная руда"
+
+#: starcraft.py:626
+msgid "You got the following items from the explosion:"
+msgstr "У вас остались следующие элементы после взрыва:"
+
+#: starcraft.py:635 starcraft.py:704
+msgid "Dirt"
+msgstr "Грязь"
+
+#: starcraft.py:636 starcraft.py:704
+msgid "Grass"
+msgstr "Трава"
+
+#: starcraft.py:639
+msgid "You got {0}x Grass and {1}x Dirt from the explosion"
+msgstr "У вас  {0}x травы и {1}x грязи после взрыва"
+
+#: starcraft.py:641
+msgid "You got {0}x Grass from the explosion"
+msgstr "У вас {0}x травы после взрыва"
+
+#: starcraft.py:643
+msgid "You got {0}x Dirt from the explosion"
+msgstr "У вас {0}x грязи после взрыва"
+
+#: starcraft.py:646
+msgid "The creeper flashes..."
+msgstr "Крепер светится..."
+
+#: starcraft.py:669
+msgid "Play"
+msgstr "Играть"
+
+#: starcraft.py:669
+msgid "Quit"
+msgstr "Выход"
+
+#: starcraft.py:683
+msgid "Current weapon: {0} - Durability {1}"
+msgstr "Текущее оружие: {0} - Прочность {1}"
+
+#: starcraft.py:684 starcraft.py:694
+msgid "Explore"
+msgstr "Исследовать"
+
+#: starcraft.py:684 starcraft.py:710
+msgid "Inventory"
+msgstr "Инвентарь"
+
+#: starcraft.py:684 starcraft.py:720
+msgid "Craft"
+msgstr "Сборка"
+
+#: starcraft.py:686 starcraft.py:759
+msgid "Switch Weapon"
+msgstr "Выборать оружие"
+
+#: starcraft.py:692 starcraft.py:761
+msgid "Mine"
+msgstr "Копать"
+
+#: starcraft.py:695
+msgid "You explore for a while."
+msgstr "Вы немного исследовали"
+
+#: starcraft.py:702
+#, fuzzy
+msgid "exploring"
+msgstr "Исследовать"
+
+#: starcraft.py:704
+msgid "Wood"
+msgstr "Дерево"
+
+#: starcraft.py:708
+msgid "You found 1x {}"
+msgstr "Вы нашли 1x {}"
+
+#: starcraft.py:712
+msgid "There is nothing in your inventory"
+msgstr "Ничего нет в инвентаре"
+
+#: starcraft.py:714
+#, fuzzy
+msgid "Your inventory:"
+msgstr "Ваш инвентарь:"
+
+#: starcraft.py:717
+msgid "Your tools:"
+msgstr "Ваши инструменты:"
+
+#: starcraft.py:719
+msgid "{0}. {1} - Durability {2}/{3}"
+msgstr "{0}. {1} - Прочность {2}/{3}"
+
+#: starcraft.py:727
+msgid "There are no items that you have the components to craft"
+msgstr "Нет элементов, подходящих для крафта"
+
+#: starcraft.py:729
+msgid "Items you can craft:"
+msgstr "Элементы для крафта:"
+
+#: starcraft.py:733
+msgid "Components: "
+msgstr "Компоненты: "
+
+#: starcraft.py:738
+msgid "What would you like to craft?"
+msgstr "Что вы хотите крафтить?"
+
+#: starcraft.py:756
+msgid "You have crafted {0}x {1}"
+msgstr "Вы скрафтили {0}x {1}"
+
+#: starcraft.py:758
+msgid "Invalid item"
+msgstr "Неверный элемент"
+
+#: starcraft.py:767 starcraft.py:775
+msgid "Coal"
+msgstr "Уголь"
+
+#: starcraft.py:769
+msgid "Raw Iron"
+msgstr "Сырое железо"
+
+#: starcraft.py:770 starcraft.py:777 starcraft.py:783
+msgid "Lapis Lazuli"
+msgstr "Лазурит"
+
+#: starcraft.py:772
+msgid "Raw Gold"
+msgstr "Сырое золото"
+
+#: starcraft.py:773 starcraft.py:779
+msgid "Diamond"
+msgstr "Алмаз"
+
+#: starcraft.py:787
+msgid "Mining..."
+msgstr "Копаем..."
+
+#: starcraft.py:794
+msgid "You didn't find much of value"
+msgstr "У вас не хватает количества"
+
+#: starcraft.py:811
+msgid "You need to switch to your pickaxe to mine"
+msgstr "Надо переключить на кирку для копания"
+

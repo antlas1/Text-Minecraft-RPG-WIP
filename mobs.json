@@ -68,7 +68,6 @@
 		"name": "Zombie",
 		"HP": 20,
 		"weight": 19,
-		"night_mob": true,
 		"behavior": "hostile",
 		"attack_strength": 5,
 		"death_drops": [
@@ -81,7 +80,6 @@
 		"name": "Baby Zombie",
 		"HP": 20,
 		"weight": 1,
-		"night_mob": true,
 		"behavior": "hostile",
 		"attack_strength": 5,
 		"death_drops": [
@@ -93,7 +91,6 @@
 		"name": "Chicken Jockey",
 		"HP": 24,
 		"spawns_naturally": false,
-		"night_mob": true,
 		"behavior": "hostile",
 		"attack_strength": 5,
 		"death_drops": [
@@ -108,7 +105,6 @@
 		"name": "Creeper",
 		"HP": 20,
 		"weight": 19,
-		"night_mob": true,
 		"behavior": "hostile",
 		"attack_strength": 22,
 		"death_drops": [
@@ -120,7 +116,6 @@
 		"name": "Charged Creeper",
 		"HP": 20,
 		"weight": 1,
-		"night_mob": true,
 		"behavior": "hostile",
 		"attack_strength": 43,
 		"death_drops": [
@@ -132,7 +127,6 @@
 		"name": "Spider",
 		"HP": 16,
 		"weight": 20,
-		"night_mob": true,
 		"behavior": "hostile",
 		"attack_strength": 2,
 		"death_drops": [

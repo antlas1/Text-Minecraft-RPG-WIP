@@ -1,0 +1,347 @@
+# Translations template for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-12-28 20:00+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: starcraft.py:65
+msgid " (Y/N) "
+msgstr ""
+
+#: starcraft.py:66
+msgid "y"
+msgstr ""
+
+#: starcraft.py:219
+msgid "The {0} is dead!"
+msgstr ""
+
+#: starcraft.py:390
+msgid "You take {0} damage!"
+msgstr ""
+
+#: starcraft.py:403
+msgid "+{0} EXP"
+msgstr ""
+
+#: starcraft.py:408
+msgid "You have reached level {0}!"
+msgstr ""
+
+#: starcraft.py:409
+msgid "Current EXP: {0}/{1}"
+msgstr ""
+
+#: starcraft.py:412
+msgid "You died!"
+msgstr ""
+
+#: starcraft.py:415
+msgid "Score: {0}"
+msgstr ""
+
+#: starcraft.py:419
+msgid "HP: {0}/20"
+msgstr ""
+
+#: starcraft.py:428
+msgid "You are healed by {0} HP."
+msgstr ""
+
+#: starcraft.py:494
+msgid "Your {0} is destroyed!"
+msgstr ""
+
+#: starcraft.py:498
+msgid "Durability: {0}"
+msgstr ""
+
+#: starcraft.py:504
+msgid "{0} - Durability {1}"
+msgstr ""
+
+#: starcraft.py:505
+msgid "Unarmed"
+msgstr ""
+
+#: starcraft.py:506
+msgid "Which weapon would you like to switch to?"
+msgstr ""
+
+#: starcraft.py:509
+msgid "You decide to go unarmed"
+msgstr ""
+
+#: starcraft.py:513
+msgid "You switch to your {0}"
+msgstr ""
+
+#: starcraft.py:547 starcraft.py:797
+msgid "You found"
+msgstr ""
+
+#: starcraft.py:548
+msgid "while"
+msgstr ""
+
+#: starcraft.py:551 starcraft.py:648
+msgid "The {0} attacks you!"
+msgstr ""
+
+#: starcraft.py:557 starcraft.py:651
+msgid "Attack"
+msgstr ""
+
+#: starcraft.py:557 starcraft.py:651
+msgid "Flee"
+msgstr ""
+
+#: starcraft.py:557 starcraft.py:651
+msgid "Ignore"
+msgstr ""
+
+#: starcraft.py:559
+msgid "Would you like to switch weapons?"
+msgstr ""
+
+#: starcraft.py:566
+msgid "The {0} stops running."
+msgstr ""
+
+#: starcraft.py:572
+msgid "You swing at the {0} but it teleports away."
+msgstr ""
+
+#: starcraft.py:574
+msgid "You swing at the {0} but miss."
+msgstr ""
+
+#: starcraft.py:577
+msgid "You try to attack the {} while it was fleeing, and miss."
+msgstr ""
+
+#: starcraft.py:578
+msgid "You swing at the {}, but miss as it was running away too fast."
+msgstr ""
+
+#: starcraft.py:579
+msgid "The {} was fleeing too quickly, you miss!"
+msgstr ""
+
+#: starcraft.py:580
+msgid "You swing at the {}, and miss narrowly."
+msgstr ""
+
+#: starcraft.py:581
+msgid "You try to attack the {} while it was running away, and miss."
+msgstr ""
+
+#: starcraft.py:591
+msgid "You attack the {0}.{1}"
+msgstr ""
+
+#: starcraft.py:591
+msgid " Critical!"
+msgstr ""
+
+#: starcraft.py:598
+msgid "The {} starts running away."
+msgstr ""
+
+#: starcraft.py:606
+msgid "The creeper explodes!"
+msgstr ""
+
+#: starcraft.py:607
+msgid "Killed by a creeper's explosion"
+msgstr ""
+
+#: starcraft.py:609 starcraft.py:809
+msgid "mining"
+msgstr ""
+
+#: starcraft.py:610 starcraft.py:766 starcraft.py:793 starcraft.py:801
+msgid "Stone"
+msgstr ""
+
+#: starcraft.py:611
+msgid "Coal Ore"
+msgstr ""
+
+#: starcraft.py:612
+msgid "Iron Ore"
+msgstr ""
+
+#: starcraft.py:613
+msgid "Lapis Lazuli Ore"
+msgstr ""
+
+#: starcraft.py:614
+msgid "Gold Ore"
+msgstr ""
+
+#: starcraft.py:615
+msgid "Diamond Ore"
+msgstr ""
+
+#: starcraft.py:626
+msgid "You got the following items from the explosion:"
+msgstr ""
+
+#: starcraft.py:635 starcraft.py:704
+msgid "Dirt"
+msgstr ""
+
+#: starcraft.py:636 starcraft.py:704
+msgid "Grass"
+msgstr ""
+
+#: starcraft.py:639
+msgid "You got {0}x Grass and {1}x Dirt from the explosion"
+msgstr ""
+
+#: starcraft.py:641
+msgid "You got {0}x Grass from the explosion"
+msgstr ""
+
+#: starcraft.py:643
+msgid "You got {0}x Dirt from the explosion"
+msgstr ""
+
+#: starcraft.py:646
+msgid "The creeper flashes..."
+msgstr ""
+
+#: starcraft.py:669
+msgid "Play"
+msgstr ""
+
+#: starcraft.py:669
+msgid "Quit"
+msgstr ""
+
+#: starcraft.py:683
+msgid "Current weapon: {0} - Durability {1}"
+msgstr ""
+
+#: starcraft.py:684 starcraft.py:694
+msgid "Explore"
+msgstr ""
+
+#: starcraft.py:684 starcraft.py:710
+msgid "Inventory"
+msgstr ""
+
+#: starcraft.py:684 starcraft.py:720
+msgid "Craft"
+msgstr ""
+
+#: starcraft.py:686 starcraft.py:759
+msgid "Switch Weapon"
+msgstr ""
+
+#: starcraft.py:692 starcraft.py:761
+msgid "Mine"
+msgstr ""
+
+#: starcraft.py:695
+msgid "You explore for a while."
+msgstr ""
+
+#: starcraft.py:702
+msgid "exploring"
+msgstr ""
+
+#: starcraft.py:704
+msgid "Wood"
+msgstr ""
+
+#: starcraft.py:708
+msgid "You found 1x {}"
+msgstr ""
+
+#: starcraft.py:712
+msgid "There is nothing in your inventory"
+msgstr ""
+
+#: starcraft.py:714
+msgid "Your inventory:"
+msgstr ""
+
+#: starcraft.py:717
+msgid "Your tools:"
+msgstr ""
+
+#: starcraft.py:719
+msgid "{0}. {1} - Durability {2}/{3}"
+msgstr ""
+
+#: starcraft.py:727
+msgid "There are no items that you have the components to craft"
+msgstr ""
+
+#: starcraft.py:729
+msgid "Items you can craft:"
+msgstr ""
+
+#: starcraft.py:733
+msgid "Components: "
+msgstr ""
+
+#: starcraft.py:738
+msgid "What would you like to craft?"
+msgstr ""
+
+#: starcraft.py:756
+msgid "You have crafted {0}x {1}"
+msgstr ""
+
+#: starcraft.py:758
+msgid "Invalid item"
+msgstr ""
+
+#: starcraft.py:767 starcraft.py:775
+msgid "Coal"
+msgstr ""
+
+#: starcraft.py:769
+msgid "Raw Iron"
+msgstr ""
+
+#: starcraft.py:770 starcraft.py:777 starcraft.py:783
+msgid "Lapis Lazuli"
+msgstr ""
+
+#: starcraft.py:772
+msgid "Raw Gold"
+msgstr ""
+
+#: starcraft.py:773 starcraft.py:779
+msgid "Diamond"
+msgstr ""
+
+#: starcraft.py:787
+msgid "Mining..."
+msgstr ""
+
+#: starcraft.py:794
+msgid "You didn't find much of value"
+msgstr ""
+
+#: starcraft.py:811
+msgid "You need to switch to your pickaxe to mine"
+msgstr ""
+
